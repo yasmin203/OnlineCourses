@@ -99,7 +99,7 @@ const Home = () => {
                     <div className="card">
                         <div className="card-header p-0 position-relative">
                            <Link to="#course-single" className="zoom d-block">
-                                <img className="card-img-bottom d-block" src="assets/images/c1.jpg"
+                                <img className="card-img-bottom d-block" src="OnlineCourses/assets/images/c1.jpg"
                                     alt="Card image cap" />
                             </Link>
                             <div className="post-pos">
@@ -132,7 +132,7 @@ const Home = () => {
                         </div>
                         <div className="card-footer">
                             <div className="author align-items-center">
-                                <img src="assets/images/a1.jpg" alt="" className="img-fluid rounded-circle" />
+                                <img src="OnlineCourses/assets/images/a1.jpg" alt="" className="img-fluid rounded-circle" />
                                 <ul className="blog-meta">
                                     <li>
                                         <span className="meta-value mx-1">by</span><Link to="#author"> Olivia</Link>
