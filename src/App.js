@@ -11,7 +11,7 @@ const App = () => {
   return (
     <div>
       <Header/>
-        <Routes>
+        <Routes basename={"OnlineCoursesTemplate"}>
           <Route exact path='/' element={<Home />} />
           <Route path='/about' element={<About />} />
           <Route path='/courses' element={<Courses />} />
