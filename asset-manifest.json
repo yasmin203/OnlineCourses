@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/OnlineCourses/static/css/main.e6c13ad2.css",
-    "main.js": "/OnlineCourses/static/js/main.89b81c39.js",
-    "static/js/787.618e7926.chunk.js": "/OnlineCourses/static/js/787.618e7926.chunk.js",
-    "index.html": "/OnlineCourses/index.html",
-    "main.e6c13ad2.css.map": "/OnlineCourses/static/css/main.e6c13ad2.css.map",
-    "main.89b81c39.js.map": "/OnlineCourses/static/js/main.89b81c39.js.map",
-    "787.618e7926.chunk.js.map": "/OnlineCourses/static/js/787.618e7926.chunk.js.map"
+    "main.css": "/OnlineCoursesTemplate/static/css/main.e6c13ad2.css",
+    "main.js": "/OnlineCoursesTemplate/static/js/main.dc491a07.js",
+    "static/js/787.618e7926.chunk.js": "/OnlineCoursesTemplate/static/js/787.618e7926.chunk.js",
+    "index.html": "/OnlineCoursesTemplate/index.html",
+    "main.e6c13ad2.css.map": "/OnlineCoursesTemplate/static/css/main.e6c13ad2.css.map",
+    "main.dc491a07.js.map": "/OnlineCoursesTemplate/static/js/main.dc491a07.js.map",
+    "787.618e7926.chunk.js.map": "/OnlineCoursesTemplate/static/js/787.618e7926.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.89b81c39.js"
+    "static/js/main.dc491a07.js"
   ]
 }
