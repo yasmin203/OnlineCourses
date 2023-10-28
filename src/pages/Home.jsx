@@ -132,7 +132,7 @@ const Home = () => {
                         </div>
                         <div className="card-footer">
                             <div className="author align-items-center">
-                                <img src="./assets/images/a1.jpg" alt="" className="img-fluid rounded-circle" />
+                                <img src="../assets/images/a1.jpg" alt="" className="img-fluid rounded-circle" />
                                 <ul className="blog-meta">
                                     <li>
                                         <span className="meta-value mx-1">by</span><Link to="#author"> Olivia</Link>
@@ -150,7 +150,7 @@ const Home = () => {
                     <div className="card">
                         <div className="card-header p-0 position-relative">
                            <Link to="#course-single" className="zoom d-block">
-                                <img className="card-img-bottom d-block" src="./assets/images/c5.jpg"
+                                <img className="card-img-bottom d-block" src="../assets/images/c5.jpg"
                                     alt="Card image cap" />
                             </Link>
                             <div className="course-price-badge"> Free</div>
@@ -184,7 +184,7 @@ const Home = () => {
                         </div>
                         <div className="card-footer">
                             <div className="author align-items-center">
-                                <img src="./assets/images/a2.jpg" alt="" className="img-fluid rounded-circle" />
+                                <img src="../assets/images/a2.jpg" alt="" className="img-fluid rounded-circle" />
                                 <ul className="blog-meta">
                                     <li>
                                         <span className="meta-value mx-1">by</span><Link to="#author"> Isabella</Link>
@@ -202,7 +202,7 @@ const Home = () => {
                     <div className="card">
                         <div className="card-header p-0 position-relative">
                            <Link to="#course-single" className="zoom d-block">
-                                <img className="card-img-bottom d-block" src="./assets/images/c6.jpg"
+                                <img className="card-img-bottom d-block" src="../assets/images/c6.jpg"
                                     alt="Card image cap" />
                             </Link>
                             <div className="course-price-badge-new"> New</div>
@@ -232,7 +232,7 @@ const Home = () => {
                         </div>
                         <div className="card-footer">
                             <div className="author align-items-center">
-                                <img src="./assets/images/a4.jpg" alt="" className="img-fluid rounded-circle" />
+                                <img src="../assets/images/a4.jpg" alt="" className="img-fluid rounded-circle" />
                                 <ul className="blog-meta">
                                     <li>
                                         <span className="meta-value mx-1">by</span><Link to="#author"> William</Link>
@@ -310,7 +310,7 @@ const Home = () => {
                        <Link to="#blog-single" className="blog-desc">Enhance your educational skills and also experience with best online courses
                         </Link>
                         <div className="author align-items-center">
-                            <img src="./assets/images/team1.jpg" alt="" className="img-fluid rounded-circle" />
+                            <img src="../assets/images/team1.jpg" alt="" className="img-fluid rounded-circle" />
                             <ul className="blog-meta">
                                 <li>
                                    <Link to="#author">Isabella ava</Link>
@@ -330,7 +330,7 @@ const Home = () => {
                        <Link to="#blog-single" className="blog-desc">Be more productive to be more Successful. Take your first jouney
                         </Link>
                         <div className="author align-items-center">
-                            <img src="./assets/images/team2.jpg" alt="" className="img-fluid rounded-circle" />
+                            <img src="../assets/images/team2.jpg" alt="" className="img-fluid rounded-circle" />
                             <ul className="blog-meta">
                                 <li>
                                    <Link to="#author">Charlotte mia</Link>
@@ -349,7 +349,7 @@ const Home = () => {
                            <Link to="#blog-single" className="blog-desc"> Our self improvement courses are more effective. Start leaarning online
                             </Link>
                             <div className="author align-items-center">
-                                <img src="./assets/images/team3.jpg" alt="" className="img-fluid rounded-circle" />
+                                <img src="../assets/images/team3.jpg" alt="" className="img-fluid rounded-circle" />
                                 <ul className="blog-meta">
                                     <li>
                                        <Link to="#author">Elizabeth</Link>
@@ -405,7 +405,7 @@ const Home = () => {
                         <div className="row">
                             <div className="col-sm-6">
                                 <div className="box16">
-                                   <Link to="#url"><img src="./assets/images/team1.jpg" alt="" className="img-fluid radius-image" /></Link>
+                                   <Link to="#url"><img src="../assets/images/team1.jpg" alt="" className="img-fluid radius-image" /></Link>
                                     <div className="box-content">
                                         <h3 className="title"><Link  to="#url">James</Link></h3>
                                         <span className="post">Director</span>
@@ -426,7 +426,7 @@ const Home = () => {
                             </div>
                             <div className="col-sm-6 mt-sm-0 mt-3">
                                 <div className="box16">
-                                   <Link to="#url"><img src="./assets/images/team2.jpg" alt="" className="img-fluid radius-image" /></Link>
+                                   <Link to="#url"><img src="../assets/images/team2.jpg" alt="" className="img-fluid radius-image" /></Link>
                                     <div className="box-content">
                                         <h3 className="title"><Link  to="#url">Victoria</Link></h3>
                                         <span className="post">Managing Director</span>
@@ -447,7 +447,7 @@ const Home = () => {
                             </div>
                             <div className="col-sm-6 mt-lg-4 mt-3">
                                 <div className="box16">
-                                   <Link to="#url"><img src="./assets/images/team3.jpg" alt="" className="img-fluid radius-image" /></Link>
+                                   <Link to="#url"><img src="../assets/images/team3.jpg" alt="" className="img-fluid radius-image" /></Link>
                                     <div className="box-content">
                                         <h3 className="title"><Link  to="#url">Isabella</Link></h3>
                                         <span className="post">Teacher</span>
@@ -468,7 +468,7 @@ const Home = () => {
                             </div>
                             <div className="col-sm-6 mt-lg-4 mt-3">
                                 <div className="box16">
-                                   <Link to="#url"><img src="./assets/images/team4.jpg" alt="" className="img-fluid radius-image" /></Link>
+                                   <Link to="#url"><img src="../assets/images/team4.jpg" alt="" className="img-fluid radius-image" /></Link>
                                     <div className="box-content">
                                         <h3 className="title"><Link  to="#url">Elizabeth</Link></h3>
                                         <span className="post">Teacher</span>
@@ -515,7 +515,7 @@ const Home = () => {
                                         Dolores molestias adipisci dolo amet!.</q>
                                 </blockquote>
                                 <div className="testi-des">
-                                    <div className="test-img"><img src="./assets/images/team1.jpg" className="img-fluid"
+                                    <div className="test-img"><img src="../assets/images/team1.jpg" className="img-fluid"
                                             alt="client-img" />
                                     </div>
                                     <div className="peopl align-self">
@@ -536,7 +536,7 @@ const Home = () => {
                                         Dolores molestias adipisci dolo amet!.</q>
                                 </blockquote>
                                 <div className="testi-des">
-                                    <div className="test-img"><img src="./assets/images/team2.jpg" className="img-fluid"
+                                    <div className="test-img"><img src="../assets/images/team2.jpg" className="img-fluid"
                                             alt="client-img" />
                                     </div>
                                     <div className="peopl align-self">
@@ -557,7 +557,7 @@ const Home = () => {
                                         Dolores molestias adipisci dolo amet!.</q>
                                 </blockquote>
                                 <div className="testi-des">
-                                    <div className="test-img"><img src="./assets/images/team3.jpg" className="img-fluid"
+                                    <div className="test-img"><img src="../assets/images/team3.jpg" className="img-fluid"
                                             alt="client-img"/>
                                     </div>
                                     <div className="peopl align-self">
@@ -578,7 +578,7 @@ const Home = () => {
                                         Dolores molestias adipisci dolo amet!.</q>
                                 </blockquote>
                                 <div className="testi-des">
-                                    <div className="test-img"><img src="./assets/images/team4.jpg" className="img-fluid"
+                                    <div className="test-img"><img src="../assets/images/team4.jpg" className="img-fluid"
                                             alt="client-img" />
                                     </div>
                                     <div className="peopl align-self">
@@ -599,7 +599,7 @@ const Home = () => {
                                         Dolores molestias adipisci dolo amet!.</q>
                                 </blockquote>
                                 <div className="testi-des">
-                                    <div className="test-img"><img src="./assets/images/team2.jpg" className="img-fluid"
+                                    <div className="test-img"><img src="../assets/images/team2.jpg" className="img-fluid"
                                             alt="client-img"/>
                                     </div>
                                     <div className="peopl align-self">
@@ -620,7 +620,7 @@ const Home = () => {
                                         Dolores molestias adipisci dolo amet!.</q>
                                 </blockquote>
                                 <div className="testi-des">
-                                    <div className="test-img"><img src="./assets/images/team3.jpg" className="img-fluid"
+                                    <div className="test-img"><img src="../assets/images/team3.jpg" className="img-fluid"
                                             alt="client-img"/>
                                     </div>
                                     <div className="peopl align-self">
@@ -641,7 +641,7 @@ const Home = () => {
                                         Dolores molestias adipisci dolo amet!.</q>
                                 </blockquote>
                                 <div className="testi-des">
-                                    <div className="test-img"><img src="./assets/images/team2.jpg" className="img-fluid"
+                                    <div className="test-img"><img src="../assets/images/team2.jpg" className="img-fluid"
                                             alt="client-img" />
                                     </div>
                                     <div className="peopl align-self">
@@ -662,7 +662,7 @@ const Home = () => {
                                         Dolores molestias adipisci dolo amet!.</q>
                                 </blockquote>
                                 <div className="testi-des">
-                                    <div className="test-img"><img src="./assets/images/team3.jpg" className="img-fluid"
+                                    <div className="test-img"><img src="../assets/images/team3.jpg" className="img-fluid"
                                             alt="client-img" />
                                     </div>
                                     <div className="peopl align-self">
@@ -689,22 +689,22 @@ const Home = () => {
             <div className="company-logos text-center">
                 <div className="row logos">
                     <div className="col-lg-2 col-md-3 col-4">
-                        <img src="./assets/images/brand1.png" alt="" className="img-fluid" />
+                        <img src="../assets/images/brand1.png" alt="" className="img-fluid" />
                     </div>
                     <div className="col-lg-2 col-md-3 col-4">
-                        <img src="./assets/images/brand2.png" alt="" className="img-fluid" />
+                        <img src="../assets/images/brand2.png" alt="" className="img-fluid" />
                     </div>
                     <div className="col-lg-2 col-md-3 col-4">
-                        <img src="./assets/images/brand3.png" alt="" className="img-fluid" />
+                        <img src="../assets/images/brand3.png" alt="" className="img-fluid" />
                     </div>
                     <div className="col-lg-2 col-md-3 col-4 mt-md-0 mt-4">
-                        <img src="./assets/images/brand4.png" alt="" className="img-fluid" />
+                        <img src="../assets/images/brand4.png" alt="" className="img-fluid" />
                     </div>
                     <div className="col-lg-2 col-md-3 col-4 mt-lg-0 mt-4">
-                        <img src="./assets/images/brand5.png" alt="" className="img-fluid" />
+                        <img src="../assets/images/brand5.png" alt="" className="img-fluid" />
                     </div>
                     <div className="col-lg-2 col-md-3 col-4 mt-lg-0 mt-4">
-                        <img src="./assets/images/brand6.png" alt="" className="img-fluid" />
+                        <img src="../assets/images/brand6.png" alt="" className="img-fluid" />
                     </div>
                 </div>
             </div>
